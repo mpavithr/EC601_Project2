@@ -20,7 +20,7 @@ return (
         <Route path='/contact' element={<Contact/>} />
         <Route path='/inventory' element={<Inventory/>} />
         <Route path='/sql' element={<Sql/>} />
-        <Route path='/sign-up' element={<SignUp/>} />
+        <Route path='/petstore-home' element={<SignUp/>} />
     </Routes>
     </Router>
 );
